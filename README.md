@@ -15,7 +15,7 @@ continuously learning, feeding strays, and wanting to help the pet community
 </p>
 
 
-<img src="https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif" align="right"  width="30%"/>
+<img src="[https://media.tenor.com/images/df8c44a1d20ab367fdcb21880985fd33/tenor.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjg4dzFjaG5pdzFtbTY5ZTBneXpuZXYybnl[…]jMnl0diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/G6sJqVpD1U4jC/giphy.gif)" align="right"  width="30%"/>
 
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> I’m currently working on ...
