@@ -1,7 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
-[![committers.top badge](https://user-badge.committers.top/philippines/USERNAME.svg)](https://user-badge.committers.top/philippines/Ozzie-code-alt)
 
-
+<span style="color: #2ecc71;">This text will appear green.</span>
 <p align="center" >
   <samp>
     My name is <em>Justin</em>. I am a  Software Engineer | Web developer | Mobile Dev... 
