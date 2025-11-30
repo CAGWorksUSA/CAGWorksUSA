@@ -1,4 +1,4 @@
-🌱 <span style="color:#2ecc71;">Welcome to Our Talent Gateway</span>
+🌱 <mark>Welcome to Our Talent Gateway</mark> 
 
 👋 Hi! We're the Recruiting Team.
 
