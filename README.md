@@ -54,10 +54,13 @@ bla bla bla
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
   </td>
-      
+      <td width="60px"> </td>
+<td align = "center">/
+  <img src="https://github.com/user-attachments/assets/4a1d0617-d7db-48a4-bc37-77784960b0f3" width = "120px"> <br>
   <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
+</td>
        </tr>
   </table>
 </p>
