@@ -40,27 +40,46 @@ bla bla bla
 
 <table style="border-collapse: collapse; border: none; width: 100%; text-align: center;">
   <tr style="border: none;">
-    
-   <td style="border: none; padding: 0 30px;">
+
+
+  <td style="border: none; padding: 0 30px;">
       <img src="https://github.com/user-attachments/assets/e2f45397-8109-4981-b698-697f2d36c6a0" width="150px"><br>
-      <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" />
-      </a>
+
+  <div style="margin-top: 10px;">
+        <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
+        </a>
+        <a href="mailto:andrew@example.com">
+          <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
+        </a>
+      </div>
     </td>
 
-   <td style="border: none; padding: 0 30px;">
+
+  <td style="border: none; padding: 0 30px;">
       <img src="https://github.com/user-attachments/assets/b22477de-c4c5-48a3-8603-f58038a6d1f7" width="150px"><br>
-      <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" />
-      </a>
+
+   <div style="margin-top: 10px;">
+        <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
+          <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
+        </a>
+        <a href="mailto:tanira@example.com">
+          <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
+        </a>
+      </div>
     </td>
 
    <td style="border: none; padding: 0 30px;">
       <img src="https://github.com/user-attachments/assets/4a1d0617-d7db-48a4-bc37-77784960b0f3" width="150px"><br>
-      <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
-        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" />
-      </a>
-    </td>
+    <div style="margin-top: 10px;">
+       <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
+        <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
+        </a>
+        <a href="mailto:joshua@example.com">
+        <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
+        </a>
+     </div>
+  </td>
 
   </tr>
 </table>
