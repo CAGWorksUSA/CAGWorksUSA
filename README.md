@@ -49,7 +49,7 @@ bla bla bla
         <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
         </a>
-        <a href="mailto:andrew@example.com">
+        <a href="mailto:andrew@careeralignmentgroup.com">
           <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
         </a>
       </div>
@@ -63,7 +63,7 @@ bla bla bla
         <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
           <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
         </a>
-        <a href="mailto:tanira@example.com">
+        <a href="mailto:tanira@careeralignmentgroup.com">
           <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
         </a>
       </div>
