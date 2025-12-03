@@ -38,10 +38,10 @@ bla bla bla
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach us!: ...
 <p align="center">
-  <a href="https://www.instagram.com/mr.backtodecember/">
+  <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
-  <a href="https://www.linkedin.com/in/justin-r-santos/">
+  <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
   <a href="mailto:justinsantos731@gmail.com">
