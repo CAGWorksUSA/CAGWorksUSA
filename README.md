@@ -39,15 +39,23 @@ bla bla bla
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach us!: ...
 
 <p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://ph.pinterest.com/pin/325948091802828720/" width ="120px" <br>
   <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
+      </td>
   <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
   <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
+       </tr>
+  </table>
+</p>
 </p>
 
 
