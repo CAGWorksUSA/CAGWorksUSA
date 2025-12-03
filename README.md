@@ -75,7 +75,7 @@ bla bla bla
        <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
         <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin-right:10px;" />
         </a>
-        <a href="mailto:joshua@example.com">
+        <a href="mailto:joshuadsantos2002@gmail.com">
         <img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" height="35px" />
         </a>
      </div>
