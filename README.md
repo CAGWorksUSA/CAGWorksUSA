@@ -42,7 +42,7 @@ bla bla bla
   <table>
     <tr>
       <td align="center">
-        <img src="https://ph.pinterest.com/pin/325948091802828720/" width ="120px" <br>
+        <img src="https://pin.it/7nxhq3pkE" width ="120px" <br>
   <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
