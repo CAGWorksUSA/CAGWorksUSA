@@ -49,7 +49,7 @@ bla bla bla
      </td>
       <td width=60px"> </td>
   <td align="center">
-      <img src="(https://github.com/user-attachments/assets/b22477de-c4c5-48a3-8603-f58038a6d1f7)" width="120px"> <br>
+      <img src="https://github.com/user-attachments/assets/b22477de-c4c5-48a3-8603-f58038a6d1f7" width="120px"> <br>
   <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
