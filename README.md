@@ -41,21 +41,21 @@ bla bla bla
 <p align="center">
   <table style="border-collapse: collapse; border: none;">
     <tr>
-   <td align="center" style="border: none;">
+<td align="center" style="border: none;">
         <img src="https://github.com/user-attachments/assets/e2f45397-8109-4981-b698-697f2d36c6a0" width ="150px"> <br>
   <a href="https://www.linkedin.com/in/andrew-becker-43189258/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
      </td>
       <td style="width: 60px; border: none;"></td>
-  <td align="center" style="border: none;">
+<td align="center" style="border: none;">
       <img src="https://github.com/user-attachments/assets/b22477de-c4c5-48a3-8603-f58038a6d1f7" width="150px"> <br>
   <a href="https://www.linkedin.com/in/tanira-kane-20269656/">
     <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
   </a>
   </td>
    <td style="width: 60px; border: none;"></td>
-<td align = "center" style=:border: none;>/
+ <td align="center" style="border: none;">
   <img src="https://github.com/user-attachments/assets/4a1d0617-d7db-48a4-bc37-77784960b0f3" width = "150px"> <br>
   <a href="https://www.linkedin.com/in/joshua-delos-santos-1a46a31a8/">
      <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/linkedin.webp" height="35px" style="margin: 20px;" />
