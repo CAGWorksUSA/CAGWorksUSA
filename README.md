@@ -22,10 +22,13 @@ We recruit engineering talent at the highest level, with one guiding principle:
 <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgwdHE1eHJzaHV0eGVod29lMW5jYXhqZmVtZThkcTlvZmY0Y3Q4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.gif" align="right"  width="30%"/>
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> We currently work with!
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  bla bla bla 
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  bla bla bla 
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Bla bla lba
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> What We Believe
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Engineering is a calling
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Not just a job title or a tech stack. Engineers turn ideas into infrastructure and imagination into reality.
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Where you sit matters
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />   The same engineer can fail or flourish depending on the seat they’re in. Right role. Right moment. Right environment.
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Great engineers deserve clarity
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  About their path, their impact, and how to communicate the value of what they do, to the world and to themselves.
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30px" /> ASP - Backend - Recap  
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="30px" /> Terraform
