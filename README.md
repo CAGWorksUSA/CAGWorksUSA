@@ -2,12 +2,16 @@
 
 <p align="center" >
   <samp>
-    We are <em> CAG </em>. Career alignment group 
-  <br/> Bla bla bla 
+   To build the next era of technology, the best minds have to be in the right seats —
+  <br/>  by design, not accident.
       <br/>
-bla bla bla
+We recruit engineering talent at the highest level, with one guiding principle:
           <br/>
-bla bla bla 
+ <em> alignment creates excellence.</em>
+      <br/><br/>
+      This page is a place for industry insight, shared perspective, and projects shaped by
+  <br/>
+  people who actually build the systems the world runs on.
   </samp>
   <br/>
   <br/>
