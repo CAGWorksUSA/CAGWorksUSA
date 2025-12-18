@@ -21,6 +21,19 @@ We recruit engineering talent at the highest level, with one guiding principle:
 
 <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgwdHE1eHJzaHV0eGVod29lMW5jYXhqZmVtZThkcTlvZmY0Y3Q4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.gif" align="right"  width="30%"/>
 
+### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> Who We Are
+- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> Career Alignment Group (CAG) is a recruiting and career guidance firm built for this moment in technology.
+We work with engineers who care deeply about their craft and founders who understand that teams are systems — not headcount.
+It’s good to know us if you value:
+
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> thoughtful career moves over reactive ones
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> long-term excellence over short-term optimization
+<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> guidance that respects your intelligence and autonomy
+</br></br>
+We don’t chase volume. We curate alignment.
+</br></br>
+
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> What We Believe
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Engineering is a calling
@@ -34,17 +47,6 @@ We recruit engineering talent at the highest level, with one guiding principle:
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="30px" /> As recruiters, we don’t believe in placing engineers we don’t understand.
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg" height="30px" />  This GitHub keeps us in conversation with the people in the arena — how they think, how they explain their work, and how the industry is actually evolving in real time.
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="30px" /> It’s also a place for engineers we’ve vetted to collaborate, contribute, and sharpen their perspective — without the noise of traditional recruiting.
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> Who We Are
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> Career Alignment Group (CAG) is a recruiting and career guidance firm built for this moment in technology.
-We work with engineers who care deeply about their craft and founders who understand that teams are systems — not headcount.
-It’s good to know us if you value:
-
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> thoughtful career moves over reactive ones
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> long-term excellence over short-term optimization
-<img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> guidance that respects your intelligence and autonomy
-</br></br>
-We don’t chase volume. We curate alignment.
-</br></br>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> What We’re Building
 </br> </br>
