@@ -31,7 +31,7 @@
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Why This GitHub Exists
  To share real insight from people in the industry and wake engineers up to the power of true alignment in their careers.
- You can take the blue pill and keep scrolling — or take the red pill and contribute your insights to this revolution. [Blue pill red Pill gif]
+ You can take the blue pill and keep scrolling — or take the red pill and contribute your insights to this revolution. 
  </br>
 
  <img src="https://github.com/user-attachments/assets/588c4caa-671b-4bd4-9612-8055b62264e1" align="center" width="50%"/> 
