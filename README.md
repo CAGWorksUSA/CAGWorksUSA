@@ -22,7 +22,7 @@
 
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/PusheenCompute.gif" width="70px" /> What We Believe
+### <img src="https://github.com/user-attachments/assets/b6bfaeaa-23f4-4ec7-b99d-c0cf153a8694" width="70px" /> What We Believe
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Engineering is a calling
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Not just a job title or a tech stack. Engineers turn ideas into infrastructure and imagination into reality.
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Where you sit matters
