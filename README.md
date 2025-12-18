@@ -23,17 +23,19 @@
 
 
 ### <img src="https://github.com/user-attachments/assets/b6bfaeaa-23f4-4ec7-b99d-c0cf153a8694" width="70px" /> What We Believe
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/3243_take_my_money.png" height="40px" />  Engineering is a calling
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Not just a job title or a tech stack. Engineers turn ideas into infrastructure and imagination into reality.
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Where you sit matters
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />   The same engineer can fail or flourish depending on the seat they’re in. Right role. Right moment. Right environment.
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  Great engineers deserve clarity
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" width="30px" />  About their path, their impact, and how to communicate the value of what they do, to the world and to themselves.
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Recruiting [and Career Moves] should be done with integrity, discernment, and long-term thinking
+
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Great engineers accelerate technology — AI is the tool, not the driver
+
+- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  The right people in the right roles can change the trajectory of entire industries
+
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> Why This GitHub Exists
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="30px" /> Very simply: to stay close to the craft.
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" height="30px" /> As recruiters, we don’t believe in placing engineers we don’t understand.
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DENO-Dark.svg" height="30px" />  This GitHub keeps us in conversation with the people in the arena — how they think, how they explain their work, and how the industry is actually evolving in real time.
-- <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="30px" /> It’s also a place for engineers we’ve vetted to collaborate, contribute, and sharpen their perspective — without the noise of traditional recruiting.
+ To share real insight from people in the industry and wake engineers up to the power of true alignment in their careers.
+ You can take the blue pill and keep scrolling — or take the red pill and contribute your insights to this revolution. [Blue pill red Pill gif]
+ </br>
+
+ <img src="https://github.com/user-attachments/assets/588c4caa-671b-4bd4-9612-8055b62264e1" align="center" width="50%"/> 
+
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> What We’re Building
 </br> </br>
