@@ -37,24 +37,26 @@
  <img src="https://github.com/user-attachments/assets/588c4caa-671b-4bd4-9612-8055b62264e1" align="center" width="50%"/> 
 
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/cool_duck.gif" width="60px" /> What We’re Building
+### <img src="https://github.com/user-attachments/assets/5c3e66d1-ad80-4115-a211-5f21e1e7b034" /> What We’re Building
 </br> </br>
-Our repositories are designed as thinking tools, not products — places to contribute, reflect, and share lived experience.
+A collaborative, generous knowledge base designed to support engineers at every stage of their journey.
 </br> </br>
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Roadmap to Engineering Greatness
-A long-view look at the engineering journey:
- skills, mindset, experience, communication, and the often-ignored human side of mastery.
- Engineers are invited to share the paths they’ve taken — not just the titles they’ve held.
- 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> Engineering for Grandmas
-A collaborative space for translating complex technical work into clear, human language.
- Because if you can explain what you do to your grandma, you can explain it to anyone
- 
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/party_parrot.gif" height="35px" /> The Engineering Playbook
-Practical insight from engineers in the business — how they think, decide, grow, and navigate the realities of the field beyond textbooks and tutorials.
+- <img src="https://github.com/user-attachments/assets/fb31c43c-3b1c-4fb3-a585-956f19f78218" height="35px" /> Roadmap to Engineering Greatness
+ A walkthrough of the milestones, decisions, and skills required to become a great engineer — with engineers sharing the paths they’ve taken.
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/question.png" width="50px" />  Ask me about ...
-- <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/chat.gif" height="35px" /> anything, I am really a talkative person, happy to help 
+ 
+- <img src="https://github.com/user-attachments/assets/839ac655-4ea7-4210-ab2c-5386f89f9f12" height="35px" /> Engineering for Grandmas
+ A collaborative space for translating complex technical work into clear, human language.
+ If you can explain what you do to your grandma, you can explain it to anyone!
+
+ 
+- <img src="https://github.com/user-attachments/assets/472d02f2-4e71-464a-8526-6135dd14de0a" height="35px" /> The Engineering Playbook
+ A practical guide to engineering disciplines, roles, languages, and core concepts — built by people in the field.
+
+
+### <img src="https://github.com/user-attachments/assets/a25a1168-c42d-4915-bf7f-930416599d38" width="50px" />  Ask us about ...
+How to beat the game — make aligned career moves, avoid common traps, and play the long game as an engineer.
+Reach out to our team when you are ready. Email us, Connect on LinkedIn or [Book a Career Alignment Call with our CAG Jag Recruiters](https://www.paraform.com/cal/careeralignment)
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/bongocat.gif" width="50px" /> How to reach us!: ...
 
 <table style="border-collapse: collapse; border: none; width: 100%; text-align: center;">
