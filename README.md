@@ -45,7 +45,7 @@ A collaborative, generous knowledge base designed to support engineers at every 
  A walkthrough of the milestones, decisions, and skills required to become a great engineer — with engineers sharing the paths they’ve taken.
 
  
-- <img src="https://github.com/user-attachments/assets/839ac655-4ea7-4210-ab2c-5386f89f9f12" height="35px" /> Engineering for Grandmas
+- <img src="https://github.com/user-attachments/assets/f6786814-d02b-4522-a108-c91071694091" height="35px" /> Engineering for Grandmas
  A collaborative space for translating complex technical work into clear, human language.
  If you can explain what you do to your grandma, you can explain it to anyone!
 
