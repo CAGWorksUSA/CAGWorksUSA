@@ -15,7 +15,7 @@
 <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDgwdHE1eHJzaHV0eGVod29lMW5jYXhqZmVtZThkcTlvZmY0Y3Q4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G6sJqVpD1U4jC/giphy.gif" align="right"  width="30%"/>
 </br></br>
 
-### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/pug_dance.gif" width="60px" /> Who We Are
+### <img src="https://github.com/user-attachments/assets/9d024334-87f8-48ee-8169-4d3314b11c6b" width="60px" /> Who We Are
 - <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/open_source.png" height="30px" /> Career Alignment Group (CAG) is a recruiting and career guidance firm built for this moment in history. We connect exceptional engineers with purposeful founders to help shape the future of business being built right now.
 
 </br></br>
