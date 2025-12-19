@@ -22,7 +22,7 @@
 
 
 
-### <img src="https://github.com/user-attachments/assets/b6bfaeaa-23f4-4ec7-b99d-c0cf153a8694" width="70px" /> What We Believe
+### <img src="https://github.com/user-attachments/assets/b6bfaeaa-23f4-4ec7-b99d-c0cf153a8694" width="100px" /> What We Believe
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Recruiting [and Career Moves] should be done with integrity, discernment, and long-term thinking
 
 - <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" width="30px" />  Great engineers accelerate technology — AI is the tool, not the driver
@@ -36,8 +36,10 @@
 
  <img src="https://github.com/user-attachments/assets/588c4caa-671b-4bd4-9612-8055b62264e1" align="center" width="50%"/> 
 
+ </br></br>
 
-### <img src="https://github.com/user-attachments/assets/5c3e66d1-ad80-4115-a211-5f21e1e7b034" width="70px" /> What We’re Building
+
+### <img src="https://github.com/user-attachments/assets/5c3e66d1-ad80-4115-a211-5f21e1e7b034" width="100px" /> What We’re Building
 </br> </br>
 A collaborative, generous knowledge base designed to support engineers at every stage of their journey.
 </br> </br>
