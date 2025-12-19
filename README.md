@@ -37,7 +37,7 @@
  <img src="https://github.com/user-attachments/assets/588c4caa-671b-4bd4-9612-8055b62264e1" align="center" width="50%"/> 
 
 
-### <img src="https://github.com/user-attachments/assets/5c3e66d1-ad80-4115-a211-5f21e1e7b034" /> What We’re Building
+### <img src="https://github.com/user-attachments/assets/5c3e66d1-ad80-4115-a211-5f21e1e7b034" width="70px" /> What We’re Building
 </br> </br>
 A collaborative, generous knowledge base designed to support engineers at every stage of their journey.
 </br> </br>
